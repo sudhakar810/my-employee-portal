@@ -18,8 +18,8 @@ Now our backend is ready to test
 I am using angular5 for development and bootstrap and HTML5
 import the project into any IDE (VCS or InteliJ)
  #run below npm commands
-  a) npm install (it will download all the dependencies)
-  b) npm start (to start the local server)
-  c) go to http://localhost:4200/ (it will open the my-employee-portal page )
-  d) Enter all details and register
-  e) you can display the registered employees
+ a) npm install (it will download all the dependencies)
+ b) npm start (to start the local server)
+ c) go to http://localhost:4200/ (it will open the my-employee-portal page )
+ d) Enter all details and register
+ e) you can display the registered employees
