@@ -1,5 +1,7 @@
 # my-employee-portal
 
+#clone repo and extract both the zip files (employee-registration-portal.zip and employee-portal-frontend.zip)  
+
 #How to run backend code
 
 a) import employee-registration-portal into Eclipise IDE (using Spring boot)  
