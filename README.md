@@ -12,7 +12,7 @@ d) select RegistrationApplication as main class
 it will deploye the below API into inbuild tomcat server  
  # GET API-  http://localhost:8081/portal/registration/employees  (display list of employees based on first name)  
  # POST API - http://localhost:8081/portal/registration/register (register the employee details)  
-  PAYLAOD Example - {"firstName":"Ram","lastName":"gopal","gender":"MALE","dob":"12-10-1991","department":"IT"}  
+  PAYLAOD Example - {"firstName":"XYZ","lastName":"ABC","gender":"MALE","dob":"12-10-1991","department":"IT"}  
 			  
 #Now our backend is ready to test  
 
